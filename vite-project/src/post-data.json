@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Setting Up your First Vue3 Project - Vue 3.0 Release",
+    "Page": "https://learnvue.co/2020/09/setting-up-your-first-vue3-project-vue-3-0-release/"
+  },
+  {
+    "Name": "A Vue Event Handling Cheatsheet – The Essentials",
+    "Page": "https://learnvue.co/2020/01/a-vue-event-handling-cheatsheet-the-essentials/"
+  },
+  {
+    "Name": "6 Techniques to Write Better VueJS v-for Loops",
+    "Page": "https://learnvue.co/2020/02/6-techniques-to-write-better-vuejs-v-for-loops/"
+  },
+  {
+    "Name": "A Simple Vue Watcher Tutorial For Beginners",
+    "Page": "https://learnvue.co/2019/12/a-simple-vue-watcher-tutorial-for-beginners/"
+  },
+  {
+    "Name": "VueJS Animations for Beginners",
+    "Page": "https://learnvue.co/2020/02/vuejs-animations-for-beginners/"
+  },
+  {
+    "Name": "How to Manage VueJS Mixins",
+    "Page": "https://learnvue.co/2019/12/how-to-manage-mixins-in-vuejs/"
+  },
+  {
+    "Name": "How You Can Use Vue Transitions Right Now",
+    "Page": "https://learnvue.co/2020/01/how-you-can-use-vue-transitions-right-now/"
+  }
+]
