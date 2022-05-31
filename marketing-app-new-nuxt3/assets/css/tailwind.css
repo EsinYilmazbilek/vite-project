@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .Mercury-Labs-hero-section {
+  background: url('/images/bg/Bitmap_hero.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -100px;
+}
+*/
+
+.main-heading {
+  font-size: 42.5px;
+  line-height: 48px;
+}
+
+.heros__icon {
+  width: 35px;
+}
+.herochoice__icon {
+  width: 20%;
+}
+
+.herochoice__desc {
+	width: 95%;
+}
+
+
+
+.clients h4{
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 26px;
+  color: #000000;
+}
+
+
+.clients__icon {
+  width: 25px;
+}
+
+.clientchoice__icon {
+  width: 10%;
+}
+
+.clientchoice__desc {
+	width: 90%;
+}
+
+.how-it-works {
+  background-color: #181818;
+  color:white;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.vertical {
+  border-left: 0.5px solid #606060;
+  height: 290px;
+}
+
+.number {
+  font-size: 100px;
+}
+
+
+.video-div {
+  max-width: 50%;
+  padding-right: 20px;
+}
+
+.video {
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.new-section {
+  background-color: #181818;
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+
+.white-title {
+  color: white
+}
+
+.get-started {
+  background: url('./static/images/bg/Bitmap.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.get-started h3 {
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.black-btn {
+  color: #fff;
+  background-color: #000000;
+  border-color: #000000 !important;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%);
+  justify-content: center;
+  align-items: center;
+}
+
+.black-btn:hover,
+.black-btn:focus,
+.black-btn:active {
+  background-color: #4c4c4c;
+  border-color: #4c4c4c !important;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  height: calc(2.75rem + 2px);
+  vertical-align: middle;
+  -webkit-user-select: none;
+  min-width: 140px;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 2px solid transparent;
+  padding: .375rem 1.5rem;
+  letter-spacing: 0.05rem;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 8px;
+  line-height: 29px;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
