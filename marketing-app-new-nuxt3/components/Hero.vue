@@ -20,7 +20,7 @@
         </div>
       </div>
       <div class="xl:w-1/3 md:w-1/2 px-4">
-        <a class="btn black-btn mt-8 intercom_open">Chat Now</a>
+        <a class="btn black-btn mt-8" @click="intercom">Chat Now</a>
       </div>
     </div>
   </section>

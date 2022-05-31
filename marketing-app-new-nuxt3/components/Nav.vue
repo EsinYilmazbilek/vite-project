@@ -4,7 +4,7 @@
       <div class="flex items-center w-full justify-between flex-no-shrink">
         <NuxtLink to="/" class="font-semibold text-xl text-black pl-0 lg:pl-4">Mercury Labs</NuxtLink>
         <div class="desktop_buttons">
-          <button href="https://apply.workable.com/mercurylabs/" class="btn black-btn intercom_open text-center inline-flex items-center">Open Roles</button>
+          <button @click="useIntercom" href="https://apply.workable.com/mercurylabs/" class="btn black-btn intercom_open text-center inline-flex items-center">Open Roles</button>
         </div>
 
         <!-- <div class="mobile__hamburg flex items-center">

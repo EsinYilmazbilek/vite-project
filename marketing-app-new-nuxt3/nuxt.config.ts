@@ -39,8 +39,8 @@ export default defineNuxtConfig({
 
   buildModules: [
     '@pinia/nuxt',
-    '@nuxtjs/tailwindcss',
-    '@hexdigital/nuxt-intercom'
+    '@nuxtjs/tailwindcss'
+    // '@hexdigital/nuxt-intercom'
   ],
 
   // intercom: {
